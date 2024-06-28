@@ -1,0 +1,17 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Existential Heroism Institute"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "January 2, 2006"
+logo = "img/EHI Logo.png"
+
+[author]
+name = "Existential Heroism Institute"
+headline = "The start of the existential hero's journey."
+bio = "bio"
+links = [ { email = "placeholder" }, { instagram = "placeholder" }, { twitter = "placeholder" }, { youtube = "placeholder" } ]

@@ -1,0 +1,35 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "Articles"
+pageRef = "articles"
+identifier = "6uJEBm8A5N"
+weight = 10
+
+[[main]]
+name = "Resources"
+pageRef = "resources"
+identifier = "3xRcmauDPu"
+weight = 20
+
+[[main]]
+name = "Projects"
+pageRef = "projects"
+identifier = "kkJKueLaXx"
+weight = 30
+
+[[main]]
+name = "About Us"
+pageRef = "about-us.md"
+identifier = "ZIDnbd9eVx"
+weight = 40
+
+[[main]]
+name = "Contact"
+pageRef = "contact.md"
+identifier = "W1at3TJvyM"
+weight = 50
+
+[[footer]]
+none = "none"
