@@ -5,4 +5,6 @@ draft: false
 description: "Contact Us Page"
 ---
 
-Contact us.
+Contact us:
+- Email: William@xheroism.org
+  
