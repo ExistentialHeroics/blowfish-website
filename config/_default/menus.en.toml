@@ -1,7 +1,4 @@
 [[main]]
-none = "none"
-
-[[main]]
 name = "Articles"
 pageRef = "articles"
 identifier = "6uJEBm8A5N"
@@ -9,8 +6,18 @@ weight = 10
 
 [[main]]
 name = "Resources"
-pageRef = "resources"
-identifier = "3xRcmauDPu"
+weight = 20
+
+[[main]]
+name = "Reading List"
+parent = "Resources"
+pageRef = "reading-list.md"
+weight = 20
+
+[[main]]
+name = "Online Resources"
+parent = "Resources"
+pageRef = "online-resources.md"
 weight = 20
 
 [[main]]

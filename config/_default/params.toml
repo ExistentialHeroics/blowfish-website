@@ -1,11 +1,12 @@
 colorScheme = "custom-theme"
-defaultAppearance = "light"
+defaultAppearance = "dark"
 autoSwitchAppearance = false
 enableSearch = true
 enableCodeCopy = true
 disableImageOptimization = false
 disableTextInHeader = false
 mainSections = ["articles"]
+defaultFeaturedImage = "img/Wanderer_above_the_Sea_of_Fog.jpeg"
 
 [header]
 layout = "fixed-fill"

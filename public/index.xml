@@ -14,17 +14,7 @@
       <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/about-us/</guid>
-      <description>Our Mission # This is some text.</description>
-      
-    </item>
-    
-    <item>
-      <title>Article Template</title>
-      <link>http://localhost:1313/articles/article-template/article-template/</link>
-      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/articles/article-template/article-template/</guid>
-      <description>Header 1 # Body text</description>
+      <description>Our Mission # The Existential Heroism Institute provides strategic analysis for world-scale issues along with research, reports, projects, and educational materials to support social and environmental solutions.</description>
       
     </item>
     
@@ -34,17 +24,7 @@
       <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/contact/</guid>
-      <description>Contact us.</description>
-      
-    </item>
-    
-    <item>
-      <title>Dungeons &amp; Dragons</title>
-      <link>http://localhost:1313/projects/dnd/</link>
-      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/projects/dnd/</guid>
-      <description>Description</description>
+      <description>Contact us:</description>
       
     </item>
     

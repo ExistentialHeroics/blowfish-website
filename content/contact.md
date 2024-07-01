@@ -6,6 +6,6 @@ description: "Contact Us Page"
 ---
 
 Contact us:
+
 - William James
-- Email: William@xheroism.org
-  
+- Email: william@xheroism.org
