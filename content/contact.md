@@ -5,7 +5,7 @@ draft: false
 description: "Contact Us Page"
 ---
 
-Contact us:
+Contact Us:
 
 - William James
 - Email: william@xheroism.org

@@ -8,5 +8,15 @@
     <language>en</language>
     <copyright>© 2024 Existential Heroism Institute</copyright>
     <lastBuildDate>Fri, 28 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Our Mission</title>
+      <link>http://localhost:1313/articles/our-mission/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/articles/our-mission/</guid>
+      <description>Mission Statement # The Existential Heroism Institute provides strategic analysis for world-scale issues along with research, reports, projects, and educational materials to support social and environmental solutions.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/articles/our-mission/cover.jpeg" />
+    </item>
+    
   </channel>
 </rss>

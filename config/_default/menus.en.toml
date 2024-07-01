@@ -9,10 +9,10 @@ name = "Resources"
 weight = 20
 
 [[main]]
-name = "Reading List"
+name = "Books"
 parent = "Resources"
-pageRef = "reading-list.md"
-weight = 20
+pageRef = "reading-list"
+weight = 10
 
 [[main]]
 name = "Online Resources"

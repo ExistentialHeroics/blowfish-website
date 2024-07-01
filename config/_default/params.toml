@@ -6,7 +6,6 @@ enableCodeCopy = true
 disableImageOptimization = false
 disableTextInHeader = false
 mainSections = ["articles"]
-defaultFeaturedImage = "img/Wanderer_above_the_Sea_of_Fog.jpeg"
 
 [header]
 layout = "fixed-fill"
@@ -30,13 +29,14 @@ layoutBackgroundBlur = false
 homepageImage = "img/EHI Hero Final.png"
 
 [article]
-showDate = true
+showDate = false
 showViews = false
 showLikes = false
 showDateOnlyInArticle = false
 showDateUpdated = false
 showAuthor = false
 showHero = true
+heroStyle = "background"
 layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = true
 showBreadcrumbs = false
@@ -64,9 +64,9 @@ showViews = false
 showLikes = false
 showTableOfContents = false
 showCards = true
-orderByWeight = false
+orderByWeight = true
 groupByYear = false
-cardView = false
+cardView = true
 cardViewScreenWidth = false
 constrainItemsWidth = false
 

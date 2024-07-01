@@ -24,7 +24,7 @@
       <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/contact/</guid>
-      <description>Contact us:</description>
+      <description>Contact Us:</description>
       
     </item>
     
@@ -39,13 +39,153 @@
     </item>
     
     <item>
-      <title>Reading List</title>
-      <link>http://localhost:1313/resources/reading-list/</link>
-      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
+      <title>Beyond Psychology by Otto Rank</title>
+      <link>http://localhost:1313/resources/reading-list/books/beyond-psychology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/resources/reading-list/</guid>
-      <description>The Denial of Death by Ernest Becker # Synopsis: Ernest Becker’s The Denial of Death (1973) is a seminal work that explores the concept of death denial and its profound impact on human behavior and culture.</description>
+      <guid>http://localhost:1313/resources/reading-list/books/beyond-psychology/</guid>
+      <description>Description # Psychologist, psychoanalyst, sociologist, teacher, Otto Rank (1884–1939) wrote on such subjects as the artist, myth, the hero, sexuality, guilt, dreams, neurosis, and the technique and history of psychoanalysis.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/resources/reading-list/books/beyond-psychology/cover.png" />
+    </item>
+    
+    <item>
+      <title>Capital in the 21st Century by Thomas Piketty</title>
+      <link>http://localhost:1313/resources/reading-list/books/capital-in-the-21st-century/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
+      <guid>http://localhost:1313/resources/reading-list/books/capital-in-the-21st-century/</guid>
+      <description>Description # What are the grand dynamics that drive the accumulation and distribution of capital?</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/resources/reading-list/books/capital-in-the-21st-century/cover.png" />
+    </item>
+    
+    <item>
+      <title>Critical Path by R. Buckminster Fuller</title>
+      <link>http://localhost:1313/resources/reading-list/books/critical-path/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/resources/reading-list/books/critical-path/</guid>
+      <description>Description # R.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/resources/reading-list/books/critical-path/cover.png" />
+    </item>
+    
+    <item>
+      <title>Escape from Evil by Ernest Becker</title>
+      <link>http://localhost:1313/resources/reading-list/books/escape-from-evil/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/resources/reading-list/books/escape-from-evil/</guid>
+      <description>Description # Ernest Becker’s Escape from Evil (1975) builds upon the themes explored in his previous work, The Denial of Death, to delve into the dark aspects of human nature and culture.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/resources/reading-list/books/escape-from-evil/cover.png" />
+    </item>
+    
+    <item>
+      <title>Finite and Infinite Games by James P. Carse</title>
+      <link>http://localhost:1313/resources/reading-list/books/finite-and-infinite-games/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/resources/reading-list/books/finite-and-infinite-games/</guid>
+      <description>Description # “There are at least two kinds of games,” states James P.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/resources/reading-list/books/finite-and-infinite-games/cover.png" />
+    </item>
+    
+    <item>
+      <title>Group Psychology and the Analysis of the Ego by Sigmund Freud</title>
+      <link>http://localhost:1313/resources/reading-list/books/group-psychology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/resources/reading-list/books/group-psychology/</guid>
+      <description>Description # The question he addresses here is, what are the emotional bonds that hold collective entities, such as an army and a church, together?</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/resources/reading-list/books/group-psychology/cover.png" />
+    </item>
+    
+    <item>
+      <title>Man&#39;s Search for Meaning by Viktor Frankl</title>
+      <link>http://localhost:1313/resources/reading-list/books/mans-search-for-meaning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/resources/reading-list/books/mans-search-for-meaning/</guid>
+      <description>Description # This seminal book, which has been called “one of the outstanding contributions to psychological thought” by Carl Rogers and “one of the great books of our time” by Harold Kushner, has been translated into more than fifty languages and sold over sixteen million copies.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/resources/reading-list/books/mans-search-for-meaning/cover.png" />
+    </item>
+    
+    <item>
+      <title>Meditations by Marcus Aurelius</title>
+      <link>http://localhost:1313/resources/reading-list/books/meditations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/resources/reading-list/books/meditations/</guid>
+      <description>Description # “Meditations” provides not just philosophical wisdom, but a roadmap to living a fulfilling and thoughtful life.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/resources/reading-list/books/meditations/cover.png" />
+    </item>
+    
+    <item>
+      <title>Our Mission</title>
+      <link>http://localhost:1313/articles/our-mission/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/articles/our-mission/</guid>
+      <description>Mission Statement # The Existential Heroism Institute provides strategic analysis for world-scale issues along with research, reports, projects, and educational materials to support social and environmental solutions.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/articles/our-mission/cover.jpeg" />
+    </item>
+    
+    <item>
+      <title>Politics by Aristotle</title>
+      <link>http://localhost:1313/resources/reading-list/books/politics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/resources/reading-list/books/politics/</guid>
+      <description>Description # The Politics is one of the most influential texts in the history of political thought, and it raises issues which still confront anyone who wants to think seriously about the ways in which human societies are organized and governed.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/resources/reading-list/books/politics/cover.png" />
+    </item>
+    
+    <item>
+      <title>The Art of War by Sun Tzu</title>
+      <link>http://localhost:1313/resources/reading-list/books/art-of-war/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/resources/reading-list/books/art-of-war/</guid>
+      <description>Description # The Art of War is a renowned ancient Chinese military treatise written by Sun Tzu, a military strategist and philosopher.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/resources/reading-list/books/art-of-war/cover.png" />
+    </item>
+    
+    <item>
+      <title>The Birth and Death of Meaning by Ernest Becker</title>
+      <link>http://localhost:1313/resources/reading-list/books/birth-and-death-of-meaning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/resources/reading-list/books/birth-and-death-of-meaning/</guid>
+      <description>Description # Ernest Becker’s The Birth and Death of Meaning: An Interdisciplinary Perspective on the Problem of Man is a profound exploration of human nature and the quest for meaning in life.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/resources/reading-list/books/birth-and-death-of-meaning/cover.png" />
+    </item>
+    
+    <item>
+      <title>The Denial of Death by Ernest Becker</title>
+      <link>http://localhost:1313/resources/reading-list/books/denial-of-death/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/resources/reading-list/books/denial-of-death/</guid>
+      <description>Description # Winner of the Pulitzer Prize in 1974 and the culmination of a life’s work, The Denial of Death is Ernest Becker’s brilliant and impassioned answer to the “why” of human existence.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/resources/reading-list/books/denial-of-death/cover.png" />
+    </item>
+    
+    <item>
+      <title>The Republic by Plato</title>
+      <link>http://localhost:1313/resources/reading-list/books/republic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/resources/reading-list/books/republic/</guid>
+      <description>Description # Presented in the form of a dialogue between Socrates and three different interlocutors, it is an inquiry into the notion of a perfect community and the ideal individual within it.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/resources/reading-list/books/republic/cover.png" />
+    </item>
+    
+    <item>
+      <title>Things Hidden Since the Foundation of the World by Rene Girard</title>
+      <link>http://localhost:1313/resources/reading-list/books/things-hidden/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/resources/reading-list/books/things-hidden/</guid>
+      <description>Description # An astonishing work of cultural criticism, this book is widely recognized as a brilliant and devastating challenge to conventional views of literature, anthropology, religion, and psychoanalysis.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/resources/reading-list/books/things-hidden/cover.png" />
     </item>
     
   </channel>
