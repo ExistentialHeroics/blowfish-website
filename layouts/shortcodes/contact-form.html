@@ -1,0 +1,83 @@
+<form action="https://formspree.io/f/mzzpbrbv" method="POST" target="_blank">
+  <label>
+    Name:
+    <input type="text" name="name" />
+  </label>
+
+  <label>
+    Email:
+    <input type="email" name="email" />
+  </label>
+
+  <label>
+    Type of Engagement Sought:
+    <select name="timely" id="timely" required="">
+      <option value="" selected="" disabled="">Select</option>
+      <option value="1">Correspondence</option>
+      <option value="3">Professional Engagement</option>
+      <option value="5">Volunteer/Apply</option>
+      <option value="7">Collaboration</option>
+      <option value="9">Other</option>
+    </select>
+  </label>
+
+  <label>
+    Message:
+    <textarea name="message"></textarea>
+  </label>
+
+  <button type="submit">Send</button>
+</form>
+
+<style>
+  form {
+    display: grid;
+    grid-gap: 1rem;
+    text-align: left;
+    padding: 2rem 0;
+    margin: 0;
+  }
+  form label {
+    display: contents;
+  }
+  form input[type="text"] {
+    font-family: inherit;
+    font-size: inherit;
+    border: 1px solid rgb(70, 70, 80);
+    background: none;
+    padding: 0.4rem 0.5rem;
+    width: 200%;
+  }
+  form input[type="email"] {
+    font-family: inherit;
+    font-size: inherit;
+    background: none;
+    padding: 0.4rem 0.5rem;
+    width: 200%;
+  }
+  form textarea,
+  form button {
+    font-family: inherit;
+    font-size: inherit;
+    background: none;
+    padding: 0.4rem 0.5rem;
+  }
+  form textarea {
+    resize: vertical;
+    width: 200%;
+  }
+  form button {
+    justify-self: start;
+    background-color: rgb(112, 129, 189);
+    color: rgb(226, 226, 226);
+    border-radius: 0.4rem;
+    padding: 0.4rem 1.6rem;
+  }
+  form select {
+    font-family: inherit;
+    font-size: inherit;
+    background: none;
+    padding: 0.4rem 0.5rem;
+    width: 200%;
+  }
+</style>
