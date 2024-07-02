@@ -14,4 +14,4 @@ logo = "img/EHI Header Icon.png"
 name = "Existential Heroism Institute"
 headline = "The start of the existential hero's journey."
 bio = "bio"
-links = [ { email = "placeholder" }, { instagram = "placeholder" }, { twitter = "placeholder" }, { youtube = "placeholder" } ]
+links = [ { discord = "https://discord.gg/N7SWWMbWFD" }, { instagram = "x_heroism" }, { twitter = "x_heroism" }, { youtube = "@ExistentialHeroismInstitute" } ]
