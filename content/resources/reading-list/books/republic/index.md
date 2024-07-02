@@ -1,7 +1,8 @@
 ---
 title: "The Republic by Plato"
-draft: "false"
+draft: false
 description: "The Republic by Plato"
+showComments: false
 ---
 
 ## Description

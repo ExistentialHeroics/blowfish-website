@@ -1,7 +1,8 @@
 ---
 title: "Meditations by Marcus Aurelius"
-draft: "false"
+draft: false
 description: "Meditations by Marcus Aurelius"
+showComments: false
 ---
 
 ## Description

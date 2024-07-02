@@ -3,6 +3,7 @@ title: "About Us"
 date: "2024-06-28"
 draft: false
 description: "About Us Page"
+showComments: false
 ---
 
 ## Our Mission

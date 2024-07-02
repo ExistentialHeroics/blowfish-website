@@ -1,7 +1,8 @@
 ---
 title: "Man's Search for Meaning by Viktor Frankl"
-draft: "false"
+draft: false
 description: "Man's Search for Meaning by Viktor Frankl"
+showComments: false
 ---
 
 ## Description

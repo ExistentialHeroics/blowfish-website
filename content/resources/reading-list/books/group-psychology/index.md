@@ -1,7 +1,8 @@
 ---
 title: "Group Psychology and the Analysis of the Ego by Sigmund Freud"
-draft: "false"
+draft: false
 description: "Group Psychology and the Analysis of the Ego by Sigmund Freud"
+showComments: false
 ---
 
 ## Description

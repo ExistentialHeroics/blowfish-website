@@ -8,8 +8,7 @@ displayName = "EN"
 isoCode = "en"
 rtl = false
 dateFormat = "January 2, 2006"
-logo = "img/EHI Logo.png"
-secondaryLogo = "img/EHI Logo Dark.png"
+logo = "img/EHI Header Icon.png"
 
 [author]
 name = "Existential Heroism Institute"

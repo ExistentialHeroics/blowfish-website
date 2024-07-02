@@ -8,7 +8,7 @@ disableTextInHeader = false
 mainSections = ["articles"]
 
 [header]
-layout = "fixed-fill"
+layout = "fixed-fill-blur"
 
 [footer]
 showMenu = true
@@ -26,12 +26,13 @@ showMoreLinkDest = "/posts"
 cardView = true
 cardViewScreenWidth = false
 layoutBackgroundBlur = false
-homepageImage = "img/EHI Hero Final.png"
+homepageImage = "img/EHI Hero.png"
 
 [article]
 showDate = false
 showViews = false
 showLikes = false
+showComments = true
 showDateOnlyInArticle = false
 showDateUpdated = false
 showAuthor = false

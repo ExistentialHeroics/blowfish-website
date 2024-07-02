@@ -2,6 +2,7 @@
 title: "The Denial of Death by Ernest Becker"
 draft: false
 description: "The Deninal of Death by Ernest Becker"
+showComments: false
 ---
 
 ## Description

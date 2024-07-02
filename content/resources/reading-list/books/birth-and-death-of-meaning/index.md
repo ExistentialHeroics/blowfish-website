@@ -2,6 +2,7 @@
 title: "The Birth and Death of Meaning by Ernest Becker"
 draft: false
 description: "The Birth and Death of Meaning: An Interdisciplinary Perspective on the Problem of Man by Ernest Becker"
+showComments: false
 ---
 
 ## Description

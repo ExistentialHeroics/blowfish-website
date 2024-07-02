@@ -3,11 +3,11 @@
   --color-neutral-50: 70, 70, 80; /* Header Text */
   --color-neutral-100: 70, 70, 80;
   --color-neutral-200: 70, 70, 80; /* Big Text */
-  --color-neutral-300: 70, 70, 80; /* Body text*/
+  --color-neutral-300: 70, 70, 80; /* Body Text*/
   --color-neutral-400: 70, 70, 80; /* Footer Text */
   --color-neutral-500: 226, 226, 226; /* Article Icons Links */
-  --color-neutral-600: 0, 0, 0;
-  --color-neutral-700: 226, 226, 226; /* Article Text Dark Mode */
+  --color-neutral-600: 112, 129, 189; /* Bulleted List */
+  --color-neutral-700: 214, 214, 214; /* Article Text Dark Mode */
   --color-neutral-800: 226, 226, 226; /* Background Color */
   --color-neutral-900: 226, 226, 226; /* Dark Mode Text*/
   --color-primary-50: 226, 226, 226;
@@ -22,12 +22,12 @@
   --color-primary-900: 73, 99, 113;
   --color-secondary-50: 255, 255, 255;
   --color-secondary-100: 255, 255, 255;
-  --color-secondary-200: 182, 240, 255;
-  --color-secondary-300: 105, 225, 255;
+  --color-secondary-200: 70, 70, 80; /* Code Block */
+  --color-secondary-300: 70, 70, 80; /* Code Block  */
   --color-secondary-400: 28, 209, 255;
   --color-secondary-500: 0, 165, 207;
-  --color-secondary-600: 255, 255, 255; /* Right Filter Dark Mode */
-  --color-secondary-700: 0, 100, 125;
+  --color-secondary-600: 70, 70, 80; /* Code Block */
+  --color-secondary-700: 0, 100, 0;
   --color-secondary-800: 255, 255, 255; /* Right Filter Light Mode */
   --color-secondary-900: 0, 35, 44;
 }

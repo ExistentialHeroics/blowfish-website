@@ -1,7 +1,8 @@
 ---
 title: "The Art of War by Sun Tzu"
-draft: "false"
+draft: false
 description: "The Art of War by Sun Tzu"
+showComments: false
 ---
 
 ## Description

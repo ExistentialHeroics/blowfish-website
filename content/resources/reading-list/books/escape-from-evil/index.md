@@ -2,6 +2,7 @@
 title: "Escape from Evil by Ernest Becker"
 draft: false
 description: "Escape from Evil by Ernest Becker"
+showComments: false
 ---
 
 ## Description

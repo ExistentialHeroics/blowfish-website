@@ -1,7 +1,8 @@
 ---
 title: "Politics by Aristotle"
-draft: "false"
+draft: false
 description: "Politics by Aristotle"
+showComments: false
 ---
 
 ## Description

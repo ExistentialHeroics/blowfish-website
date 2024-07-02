@@ -2,6 +2,7 @@
 title: "Capital in the 21st Century by Thomas Piketty"
 draft: false
 description: "Capital in the 21st Century by Thomas Piketty"
+showComments: false
 ---
 
 ## Description

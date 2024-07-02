@@ -1,7 +1,8 @@
 ---
 title: "Beyond Psychology by Otto Rank"
-draft: "false"
+draft: false
 description: "Beyond Psychology by Otto Rank"
+showComments: false
 ---
 
 ## Description

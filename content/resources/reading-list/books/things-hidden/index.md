@@ -1,7 +1,8 @@
 ---
 title: "Things Hidden Since the Foundation of the World by Rene Girard"
-draft: "false"
+draft: false
 description: "Things Hidden Since the Foundation of the World by Rene Girard"
+showComments: false
 ---
 
 ## Description

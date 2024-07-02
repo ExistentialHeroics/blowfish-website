@@ -33,12 +33,12 @@
   
   
   
-  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.eee70ac610cde2098bb503560e5698cc57c007fb983273e16bfd16bde92f9f7049a6684dbd74cc27aa130ce5718965960cb6d92bf47dd48c53238a45d518cac1.css"
-    integrity="sha512-7ucKxhDN4gmLtQNWDlaYzFfAB/uYMnPha/0Wvekvn3BJpmhNvXTMJ6oTDOVxiWWWDLbZK/R91IxTI4pF1RjKwQ==" />
+  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.22f645907423580eb09a7cb0ade1bccd2fdfe7531c1a860dc1da0889230a4a33271eeb8a25d40d212e0bff1045d0944286b9cd7356f5f51bc3529d2e03cc0117.css"
+    integrity="sha512-IvZFkHQjWA6wmnywreG8zS/f51McGoYNwdoIiSMKSjMnHuuKJdQNIS4L/xBF0JRChrnNc1b19RvDUp0uA8wBFw==" />
   
   
-  <script type="text/javascript" src="/js/appearance.min.37dc8c62fddeb786b56e726c1e5d72934257d658358921587bd36fbd7c1930d458fe8b05cbffd8f0533380877a13cc58bf9dc1e6360693a9c6211b2aa68166c1.js"
-    integrity="sha512-N9yMYv3et4a1bnJsHl1yk0JX1lg1iSFYe9NvvXwZMNRY/osFy//Y8FMzgId6E8xYv53B5jYGk6nGIRsqpoFmwQ=="></script>
+  <script type="text/javascript" src="/js/appearance.min.516a16745bea5a9bd011138d254cc0fd3973cd55ce6e15f3dec763e7c7c2c7448f8fe7b54cca811cb821b0c7e12cd161caace1dd794ac3d34d40937cbcc9ee12.js"
+    integrity="sha512-UWoWdFvqWpvQERONJUzA/TlzzVXObhXz3sdj58fCx0SPj&#43;e1TMqBHLghsMfhLNFhyqzh3XlKw9NNQJN8vMnuEg=="></script>
   
   
   
@@ -159,7 +159,8 @@
   
   
   <div class="min-h-[148px]"></div>
-<div class="fixed inset-x-0 pl-[24px] pr-[24px] bg-neutral dark:bg-neutral-800" style="z-index:100">
+<div class="fixed inset-x-0 pl-[24px] pr-[24px]" style="z-index:100">
+  <div id="menu-blur" class="absolute opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom bg-neutral dark:bg-neutral-800"></div>
   <div class="relative max-w-[64rem] ml-auto mr-auto">
     <div style="padding-left:0;padding-right:0;padding-top:2px;padding-bottom:3px"
     class="main-menu flex items-center justify-between px-4 py-6 sm:px-6 md:justify-start space-x-3">
@@ -170,7 +171,7 @@
         <a href="/" class="flex">
             <span class="sr-only">Existential Heroism Institute</span>
 
-            <img src="/img/EHI%20Logo.png" width="960" height="540"
+            <img src="/img/EHI%20Header%20Icon.png" width="256" height="256"
                 class="logo max-h-[5rem] max-w-[5rem] object-scale-down object-left nozoom" alt="Existential Heroism Institute" />
 
         </a>
@@ -502,6 +503,13 @@
 
   </div>
 </div>
+<script>
+  window.addEventListener('scroll', function (e) {
+    var scroll = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
+    var background_blur = document.getElementById('menu-blur');
+    background_blur.style.opacity = (scroll / 300);
+  });
+</script>
 
   
   <div class="relative flex flex-col grow">
@@ -524,7 +532,7 @@
                         
                     
                     
-                    <img class="h-full w-full object-cover m-0 nozoom" src="/img/EHI%20Hero%20Final.png">
+                    <img class="h-full w-full object-cover m-0 nozoom" src="/img/EHI%20Hero.png">
                     <div
                         class="absolute inset-0 bg-gradient-to-r from-primary-500 to-secondary-600 dark:from-primary-600 dark:to-secondary-800 mix-blend-multiply">
                     </div>

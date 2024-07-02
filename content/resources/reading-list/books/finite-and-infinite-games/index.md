@@ -2,6 +2,7 @@
 title: "Finite and Infinite Games by James P. Carse"
 draft: "false"
 description: "Finite and Infinite Games by James P. Carse"
+showComments: false
 ---
 
 ## Description

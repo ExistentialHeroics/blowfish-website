@@ -1,7 +1,8 @@
 ---
 title: "Critical Path by R. Buckminster Fuller"
-draft: "false"
+draft: false
 description: "Critical Path by R. Buckminster Fuller"
+showComments: false
 ---
 
 ## Description
