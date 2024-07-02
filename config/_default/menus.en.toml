@@ -20,11 +20,11 @@ parent = "Resources"
 pageRef = "online-resources.md"
 weight = 20
 
-[[main]]
-name = "Projects"
-pageRef = "projects"
-identifier = "kkJKueLaXx"
-weight = 30
+# [[main]]
+# name = "Projects"
+# pageRef = "projects"
+# identifier = "kkJKueLaXx"
+# weight = 30
 
 [[main]]
 name = "About Us"
