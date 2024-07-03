@@ -188,5 +188,15 @@
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/resources/reading-list/books/things-hidden/cover.png" />
     </item>
     
+    <item>
+      <title>Whitepaper</title>
+      <link>http://localhost:1313/whitepaper/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/whitepaper/</guid>
+      <description>For commonly asked questions about Worldcoin please visit worldcoin.</description>
+      
+    </item>
+    
   </channel>
 </rss>

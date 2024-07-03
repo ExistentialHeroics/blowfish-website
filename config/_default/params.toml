@@ -6,6 +6,7 @@ enableCodeCopy = true
 disableImageOptimization = false
 disableTextInHeader = false
 mainSections = ["articles"]
+smartTOC = true
 
 [header]
 layout = "fixed-fill-blur"

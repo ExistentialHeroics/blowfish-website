@@ -28,8 +28,8 @@
   
   
   
-  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.22f645907423580eb09a7cb0ade1bccd2fdfe7531c1a860dc1da0889230a4a33271eeb8a25d40d212e0bff1045d0944286b9cd7356f5f51bc3529d2e03cc0117.css"
-    integrity="sha512-IvZFkHQjWA6wmnywreG8zS/f51McGoYNwdoIiSMKSjMnHuuKJdQNIS4L/xBF0JRChrnNc1b19RvDUp0uA8wBFw==" />
+  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.7bd46f222092ba2942c717db3519d320d8689af20104076e0c56f198f83a6c151a405529dd9e66db99fca3781ab9b7922830be47be103723c5cc6896bc048568.css"
+    integrity="sha512-e9RvIiCSuilCxxfbNRnTINhomvIBBAduDFbxmPg6bBUaQFUp3Z5m25n8o3gaubeSKDC&#43;R74QNyPFzGiWvASFaA==" />
   
   
   <script type="text/javascript" src="/js/appearance.min.516a16745bea5a9bd011138d254cc0fd3973cd55ce6e15f3dec763e7c7c2c7448f8fe7b54cca811cb821b0c7e12cd161caace1dd794ac3d34d40937cbcc9ee12.js"
@@ -113,16 +113,16 @@
   
   
   
-  <link href="placeholder" rel="me" />
+  <link href="https://discord.gg/N7SWWMbWFD" rel="me" />
   
   
-  <link href="placeholder" rel="me" />
+  <link href="https://www.instagram.com/x_heroism" rel="me" />
   
   
-  <link href="placeholder" rel="me" />
+  <link href="https://x.com/X_heroism" rel="me" />
   
   
-  <link href="placeholder" rel="me" />
+  <link href="https://www.youtube.com/@ExistentialHeroismInstitute" rel="me" />
   
   
   
@@ -262,17 +262,6 @@
     </div>
   </div>
 </div>
-
-
-
-            
-            
-  <a href="/projects/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
-    
-    <p class="text-base font-medium" title="">
-        Projects
-    </p>
-</a>
 
 
 
@@ -448,21 +437,6 @@
 </li>
 
 <li class="mb-2"></li>
-
-
-
-
-                    
-
-                    
-  <li class="mt-1">
-    <a href="/projects/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
-        
-        <p class="text-bg font-bg" title="">
-            Projects
-        </p>
-    </a>
-</li>
 
 
 
@@ -658,7 +632,7 @@
     <nav id="TableOfContents">
   <ul>
     <li><a href="#description">Description</a></li>
-    <li><a href="#linkhttpswwwamazoncomrepublic-platodp1503379981"><a href="https://www.amazon.com/Republic-Plato/dp/1503379981">Link</a></a></li>
+    <li><a href="#linkhttpswwwamazoncomrepublic-penguin-classics-platodp0140455116"><a href="https://www.amazon.com/Republic-Penguin-Classics-Plato/dp/0140455116">Link</a></a></li>
   </ul>
 </nav>
   </div>
@@ -673,7 +647,7 @@
     <nav id="TableOfContents">
   <ul>
     <li><a href="#description">Description</a></li>
-    <li><a href="#linkhttpswwwamazoncomrepublic-platodp1503379981"><a href="https://www.amazon.com/Republic-Plato/dp/1503379981">Link</a></a></li>
+    <li><a href="#linkhttpswwwamazoncomrepublic-penguin-classics-platodp0140455116"><a href="https://www.amazon.com/Republic-Penguin-Classics-Plato/dp/0140455116">Link</a></a></li>
   </ul>
 </nav>
   </div>
@@ -706,6 +680,44 @@
 
 
 
+  (function () {
+    var $toc = $('#TableOfContents');
+    if ($toc.length > 0) {
+      var $window = $(window);
+
+      function onScroll() {
+        var currentScroll = $window.scrollTop();
+        var h = $('.anchor');
+        var id = "";
+        h.each(function (i, e) {
+          e = $(e);
+          if (e.offset().top - $(window).height()/3 <= currentScroll) {
+            id = decodeURIComponent(e.attr('id'));
+          }
+        });
+        var active = $toc.find('a.active');      
+        if (active.length == 1 && active.eq(0).attr('href') == '#' + id) return true;
+
+        active.each(function (i, e) {
+          
+            $(e).removeClass('active');
+          
+        });
+        $toc.find('a[href="#' + id + '"]').addClass('active')
+        $toc.find('a[href="#' + id + '"]').parentsUntil('#TableOfContents').each(function (i, e) {
+          $(e).children('a').parents('ul').show();          
+        });
+      }
+
+      $window.on('scroll', onScroll);
+      $(document).ready(function () {
+        
+        onScroll();
+      });
+    }
+  })();
+
+
 </script>
    </div>
       </div>
@@ -732,13 +744,13 @@
 <p>Presented in the form of a dialogue between Socrates and three different interlocutors, it is an inquiry into the notion of a perfect community and the ideal individual within it. During the conversation other questions are raised: what is goodness; what is reality; what is knowledge? The Republic also addresses the purpose of education and the role of both women and men as &ldquo;guardians&rdquo; of the people. With remarkable lucidity and deft use of allegory, Plato arrives at a depiction of a state bound by harmony and ruled by &ldquo;philosopher kings.&rdquo;</p>
 
 
-<h2 class="relative group"><a href="https://www.amazon.com/Republic-Plato/dp/1503379981" target="_blank">Link</a> 
-    <div id="linkhttpswwwamazoncomrepublic-platodp1503379981" class="anchor"></div>
+<h2 class="relative group"><a href="https://www.amazon.com/Republic-Penguin-Classics-Plato/dp/0140455116" target="_blank">Link</a> 
+    <div id="linkhttpswwwamazoncomrepublic-penguin-classics-platodp0140455116" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#linkhttpswwwamazoncomrepublic-platodp1503379981" aria-label="Anchor">#</a>
+            style="text-decoration-line: none !important;" href="#linkhttpswwwamazoncomrepublic-penguin-classics-platodp0140455116" aria-label="Anchor">#</a>
     </span>        
     
 </h2>
